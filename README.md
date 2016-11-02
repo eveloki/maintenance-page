@@ -1,2 +1,2 @@
 # Maintenance Page Template
-A boilerplate that we, at Rapid Web, for displaying maintenance pages for live uploads. 
+A boilerplate that we, at Rapid Web, use for displaying maintenance pages during live uploads. 
